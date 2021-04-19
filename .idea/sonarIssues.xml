@@ -13,12 +13,62 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/digionebank/Analista.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/digionebank/Banco.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/digionebank/Cliente.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/kotlin/digionebank/Conta.kt">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/digionebank/Funcionario.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/digionebank/Funcionario.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/digionebank/Gerente.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/digionebank/Log.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/kotlin/digionebank/Pessoa.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/digionebank/TipoCliente.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/test/AutenticaTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/test/AutenticaTest.kt">
           <value>
             <set />
           </value>

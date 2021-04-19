@@ -1,7 +1,10 @@
 package digionebank
 
-class Pessoa {
-    var nome: String = "Leo"
-    var cpf: String = "123123"
-    private set
+abstract class Pessoa( val nome: String = "Leo",
+                            val cpf: String = "123123") {
+
+    override fun toString(): String {
+        return "Pessoa(nome='$nome', cpf='$cpf')"
+    }
+
 }
