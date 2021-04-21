@@ -1,4 +1,4 @@
-package test
+package digionebankTest
 
 import digionebank.Cliente
 import digionebank.Gerente
