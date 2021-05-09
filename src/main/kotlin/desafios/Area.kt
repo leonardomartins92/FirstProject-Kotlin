@@ -9,6 +9,6 @@ fun main(args: Array<String>) {
     val pi = 3.14159
     val area = pi * raio * raio
     val resultado = BigDecimal(area).setScale(4, RoundingMode.HALF_EVEN)
-    println("A=$resultado")
+    println("A=$area")
 
 }
